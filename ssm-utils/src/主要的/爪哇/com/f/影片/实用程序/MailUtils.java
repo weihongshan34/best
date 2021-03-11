@@ -85,7 +85,7 @@ public final class MailUtils {
         MailUtils.sendMail("1743465919@qq.com",
                 "你好，这是一封测试邮件，无需回复。",
                 "测试邮件随机生成的验证码是：" + getValidateCode(6));
-        System.out.println("发送成功");
-
+        系统。出来。println（“发送成功”）;
+        6666666666
 }
 }
